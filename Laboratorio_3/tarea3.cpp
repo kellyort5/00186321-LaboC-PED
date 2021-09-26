@@ -3,7 +3,6 @@ si quiere que sean de arroz o de maíz,si las quieren con Coca-Cola o no,
 y de qué ingredientes las quieren, que permite agregarlas a la lista y mostrar las órdenes.*/
 
 #include <iostream>
-#include <string.h>
 #include <iomanip>
 #define maxchar 50
 
