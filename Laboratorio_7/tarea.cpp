@@ -9,7 +9,7 @@ typedef struct nodo
     struct nodo *izq, *der;
 } *ABB;
 
-// protoipos
+// prototipos
 nodo *crearnodo(int);
 nodo *unirABB(nodo *, nodo *);
 void insertar(nodo *&, int);
