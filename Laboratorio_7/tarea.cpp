@@ -1,6 +1,3 @@
-[![in-orden.png](https://i.postimg.cc/KzzGhYvY/in-orden.png)](https://postimg.cc/p9wbDRjN)
-                 
-                 
 #include <iostream>
 #include <stdlib.h>
 
